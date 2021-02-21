@@ -65,7 +65,7 @@ If your instance has subdomain isolation disabled:
  ```shell
  $ cat <em>~/TOKEN.txt</em> | docker login <em>HOSTNAME</em> -u <em>USERNAME</em> --password-stdin
 ```
-{% endraw %}
+{% endraw 100%}
 {% endif %}
 
 {% endif %}
